@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xYoons
-- 👀 I’m interested in blockchain 
-- 🌱 I’m currently learning dev
-- 💞️ I’m looking to collaborate on sol, eth, more to come in 2k23
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to c
 - 📫 How to reach me ...
 
 <!---
